@@ -5,10 +5,11 @@ This is a source code to build a WhatsApp bot using OpenAI bot and Node.js. The 
 NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 
 # How to Install? 
-$ git clone https://github.com/Navneet1ss/Whatapp-ChatGPT.git <br>
-$ cd Whatapp-ChatGPT <br>
-$ npm install <br>
-$ node index.js <br>
+$ Step-1 git clone https://github.com/Navneet1ss/Whatapp-ChatGPT.git <br>
+$ Step-2 cd Whatapp-ChatGPT <br>
+  If Node note Install - (Install node  https://nodejs.org/en/download/ )
+$ Step-3 npm install <br>
+$ Step-4 node index.js <br>
 
 <br> NOTE: SETUP KEYS IN accesser.json
 
