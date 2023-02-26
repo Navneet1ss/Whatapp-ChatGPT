@@ -6,8 +6,7 @@ NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 
 # How to Install? 
 $ Step-1 git clone https://github.com/Navneet1ss/Whatapp-ChatGPT.git <br>
-$ Step-2 cd Whatapp-ChatGPT <br>
-  If Node note Install - (Install node  https://nodejs.org/en/download/ )
+$ Step-2 cd Whatapp-ChatGPT --> If Node note Install - (Install node  https://nodejs.org/en/download/ ) <br>
 $ Step-3 npm install <br>
 $ Step-4 node index.js <br>
 
